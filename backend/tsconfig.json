@@ -1,0 +1,7 @@
+{
+    "compilerOptions": { // Compiler options for TypeScript
+        "module": "CommonJS",
+        "target": "ES6",
+        "esModuleInterop": true, // Enable compatibility with ES modules and CommonJS interoperability
+    }
+}
